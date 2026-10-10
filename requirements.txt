@@ -1,0 +1,9 @@
+gymnasium[mujoco]==0.29.1
+mujoco==2.3.3
+numpy==1.24.4
+torch==2.4.1
+tensorboard==2.11.2
+tyro==0.5.10
+moviepy==1.0.3
+matplotlib>=3.5
+psutil>=5.9
