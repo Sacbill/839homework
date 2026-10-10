@@ -13,6 +13,17 @@ evaluation. The main homework files are:
 
 The project is based on CleanRL. Its original README follows.
 
+## Final homework artifacts
+
+- `report/report.pdf`: concise final report
+- `report/figures/`: five-seed PPO/SAC training plots
+- `report/best_policy_sac_seed3.mp4`: best deterministic policy video
+- `analysis/two_leg_five_seed/`: analysis script and final evaluation tables
+- `REPRODUCE.md`: exact experiment commands
+
+Raw TensorBoard runs, model checkpoints, intermediate videos, caches, and the
+submission ZIP are intentionally excluded.
+
 # CleanRL (Clean Implementation of RL Algorithms)
 
 
